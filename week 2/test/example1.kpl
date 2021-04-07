@@ -1,0 +1,6 @@
+Program Example1; (* Example 1 *)
+Var : I : Float;
+Begin
+I := 0.0.;
+
+End. (* Example 1 *)
